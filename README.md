@@ -2,33 +2,33 @@
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
-<p align="center">A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</p>
+<p align="center">Un activador de Windows y Office que utiliza métodos de activación HWID / KMS38 / Online KMS, centrado en el código abierto y con menos detecciones de antivirus.</p>
 <hr>
 
-## Download / How to use it?
+## Descargar / ¿Cómo utilizarlo?
 
-### Method 1 - PowerShell (Recommended)
+### Método 1 - PowerShell (Recomendado)
 
--   On Windows 8.1/10/11, right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
--   Copy-paste the below code and press enter\
+-   En Windows 8.1/10/11, haga clic con el botón derecho del ratón en el menú de inicio de Windows y seleccione PowerShell o Terminal (no CMD).
+-   Copia y pega el siguiente código y pulsa enter\
     `irm https://massgrave.dev/get | iex`
--   You will see the activation options, and follow onscreen instructions.
--   That's all.
+-   Verá las opciones de activación y siga las instrucciones en pantalla.
+-   Eso es todo.
 
-### Method 2 - Traditional
+### Método 2 - Tradicional
 
--   Download the file from [here](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
--   Right-click on the downloaded zip file and extract
--   In the extracted folder, find the folder named `All-In-One-Version`
--   Run the file named `MAS_AIO.cmd`
--   You will see the activation options, and follow onscreen instructions.
--   That's all.
+-   Descargue el archivo desde [aquí](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
+-   Haga clic con el botón derecho en el archivo zip descargado y extráigalo
+-   En la carpeta extraída, busque la carpeta denominada `All-In-One-Version`
+-   Ejecute el archivo denominado `MAS_AIO.cmd`
+-   Verá las opciones de activación y siga las instrucciones en pantalla.
+-   Eso es todo.
 
-To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches.html)
+Para ejecutar los scripts en modo desatendido, consulte [aquí].(https://massgrave.dev/command_line_switches.html)
 
 ```
-Latest Version: 1.8
-Release date: 16-Mar-2023
+Última versión: 1.8
+Fecha de publicación: 16-Mar-2023
 ```
 
 ### [Troubleshooting / Help](https://massgrave.dev/troubleshoot.html)
